@@ -3,4 +3,4 @@ Thre are ten questions about jupyter ,numpy,plot and will use the famous [iris d
 
 ALL question will be execute in jupyter notebook
 
-check [here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)get iris-data-set DATA
+check [Here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) get iris-data-set DATA
